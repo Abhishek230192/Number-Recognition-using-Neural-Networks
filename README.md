@@ -1,3 +1,3 @@
 # Number-Recognition-using-Neural-Networks
 
-Number Recongnition using MNIST dataet 
+Number Recongnition using MNIST dataset
